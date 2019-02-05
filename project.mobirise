@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Verksamhetsmanual",
-    "currentPage": "index.html",
+    "currentPage": "1.Omfattning.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "versionFirst": "4.8.2",
     "siteFonts": [],
     "uniqCompNum": 46,
-    "versionPublish": "4.8.2",
+    "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -61,13 +61,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -79,16 +79,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -113,13 +113,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4. Allmäna krav</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5.</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"4.Allmana krav.html\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"4.Allmana krav.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. Allmäna krav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4.1 Opartiskhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">&nbsp;4.2 Sekretess</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5. Strukturella krav</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6. Resurskrav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.1 Allmänt</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.2 Personal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.3 Lokaler och miljöförhållanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.4 Utrustning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.5 Metrologisk spårbarhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.6 Externa produkter och tjänster</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"C:\\Users\\john.cliffoord\\Desktop\\verksamhetsmanual\\orginalfiler\\ladda.png\" target=\"_blank\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
           "_tags": [
             "Theme"
           ],
@@ -168,7 +168,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Verksamhetsmanual",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -235,13 +235,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -253,16 +253,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -287,13 +287,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4. Allmäna krav</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5.</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"4.Allmana krav.html\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"4.Allmana krav.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. Allmäna krav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4.1 Opartiskhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">&nbsp;4.2 Sekretess</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5. Strukturella krav</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6. Resurskrav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.1 Allmänt</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.2 Personal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.3 Lokaler och miljöförhållanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.4 Utrustning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.5 Metrologisk spårbarhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.6 Externa produkter och tjänster</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"C:\\Users\\john.cliffoord\\Desktop\\verksamhetsmanual\\orginalfiler\\ladda.png\" target=\"_blank\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -309,7 +309,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
           "_tags": [
             "Theme"
           ],
@@ -342,7 +342,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Verksamhetsmanual",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -546,13 +546,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -564,16 +564,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -598,13 +598,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4. Allmäna krav</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5.</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"4.Allmana krav.html\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"4.Allmana krav.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. Allmäna krav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4.1 Opartiskhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">&nbsp;4.2 Sekretess</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5. Strukturella krav</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6. Resurskrav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.1 Allmänt</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.2 Personal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.3 Lokaler och miljöförhållanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.4 Utrustning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.5 Metrologisk spårbarhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.6 Externa produkter och tjänster</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"C:\\Users\\john.cliffoord\\Desktop\\verksamhetsmanual\\orginalfiler\\ladda.png\" target=\"_blank\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -620,7 +620,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
           "_tags": [
             "Theme"
           ],
@@ -720,13 +720,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -738,16 +738,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -772,13 +772,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4. Allmäna krav</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5.</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"4.Allmana krav.html\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"4.Allmana krav.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. Allmäna krav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4.1 Opartiskhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">&nbsp;4.2 Sekretess</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5. Strukturella krav</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6. Resurskrav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.1 Allmänt</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.2 Personal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.3 Lokaler och miljöförhållanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.4 Utrustning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.5 Metrologisk spårbarhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.6 Externa produkter och tjänster</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"C:\\Users\\john.cliffoord\\Desktop\\verksamhetsmanual\\orginalfiler\\ladda.png\" target=\"_blank\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -794,7 +794,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
           "_tags": [
             "Theme"
           ],
@@ -1031,13 +1031,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -1049,16 +1049,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#a8a8a8"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#b9b9b9!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#c1c1c1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1083,13 +1083,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#c1c1c1",
             "fontSize": "1.15",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4. Allmäna krav</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5.</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"4.Allmana krav.html\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Verksamhetsmanual</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"1.Omfattning.html\" aria-expanded=\"false\">1. Omfattning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2.Normativa.html\" aria-expanded=\"false\">2. Normativa hänvisningar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3.termer.html\" aria-expanded=\"false\">3. Termer och definationer</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"4.Allmana krav.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">4. Allmäna krav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">4.1 Opartiskhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.Allmana krav.html\" aria-expanded=\"false\">&nbsp;4.2 Sekretess</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">5. Strukturella krav</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">6. Resurskrav</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.1 Allmänt</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.2 Personal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.3 Lokaler och miljöförhållanden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.4 Utrustning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.5 Metrologisk spårbarhet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">6.6 Externa produkter och tjänster</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"C:\\Users\\john.cliffoord\\Desktop\\verksamhetsmanual\\orginalfiler\\ladda.png\" target=\"_blank\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1105,7 +1105,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Verksamhetsmanual</a>",
           "_tags": [
             "Theme"
           ],
